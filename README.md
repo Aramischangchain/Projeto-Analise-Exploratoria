@@ -1,7 +1,7 @@
 # Projeto-Analise-Exploratoria
 
 Título:
-Pesquisa em Ciencia de Dados utilizando linguagem Python (Banco de dados Pandas)
+Análise Exploratória da Hemovigilância em Pós-Mercado utilizando linguagem Python (Banco de dados Pandas)
 
 
 Assunto:
